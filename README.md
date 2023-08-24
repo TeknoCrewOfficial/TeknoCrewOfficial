@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TeknoCrewOfficial
-- 👀 I’m interested in Tech 
-- 🌱 I’m currently learning at peace kottakkal
-- 📫 How to reach me come to Peace kottakkal
+- 👋 Hi, we are @TeknoCrewOfficial
+- 👀 We are interested in Tech 
+- 🌱 We are currently learning at peace kottakkal
+- 📫 If u want to reach me come to Peace kottakkal
 
 <!---
 TeknoCrewOfficial/TeknoCrewOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
